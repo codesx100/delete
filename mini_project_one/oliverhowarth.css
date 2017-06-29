@@ -1,0 +1,39 @@
+body{
+	background-image: url("https://images2.alphacoders.com/220/220582.jpg");	
+  background-size: cover;
+}
+
+header{
+	font-family: sans-serif;
+	font-weight: 300;
+	margin:90px;
+	color: Red;
+	text-align: center;
+}
+
+.intro p {
+        color: red;
+        font-weight: 300;
+        font-family: sans-serif;
+}
+
+.njitseal{
+   margin: 90px;
+}
+
+.skills{
+  font-family:georgia;
+  Font-weight: 200;
+  color: red;
+}
+
+.sidebar{
+  color: red;
+  float: right;
+  }
+  
+  
+  
+  
+  
+  
